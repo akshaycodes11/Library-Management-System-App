@@ -31,7 +31,7 @@ It follows OOP principles and includes exception handling to manage missing book
 
 Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/LibraryManagementSystem.git
+git clone https://github.com/akshaycodes11/Library-Management-System-App.git
 cd LibraryManagementSystem
 
 Step 2: Open in Eclipse
